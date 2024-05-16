@@ -4,7 +4,7 @@ Crafted an insightful sales report of vrinda store using Excel, empowering organ
 
 ## Screenshots of dashboard
 
-![App Screenshot](https://github.com/navajis07/Unicorn_company_data_analysis_dashboard_powerbi/blob/main/Screenshot_20240330_132148.png?raw=true)
+![App Screenshot](https://github.com/navajis07/Excel--Vrinda_store_annual_report_2022/blob/main/Screenshot_20230918_092913.png?raw=true)
 
 ## 🚀 About Me
 I'm a full stack data scientist...
